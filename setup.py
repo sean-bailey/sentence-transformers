@@ -20,7 +20,7 @@ setup(
     install_requires=[
         "transformers>=4.34.0,<5.0.0",
         "tqdm",
-        "torch>=1.11.0",
+        "pytorch",
         "numpy",
         "scikit-learn",
         "scipy",
